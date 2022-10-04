@@ -1,4 +1,4 @@
-He was born in Istanbul in 1997. He met Enka in 2003 and embarked on a 13-year educational 
+He was born in Istanbul in 1997. He met [Enka](https://www.enka.k12.tr/) in 2003 and embarked on a 13-year educational 
 adventure (with a preparatory class). In his school life, he was introduced to computer programs 
 and software development. Since then, he has devoted himself to computers. 
 
