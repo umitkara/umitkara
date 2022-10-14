@@ -9,12 +9,6 @@ He developed programs for various start-ups, web crawlers, and made website desi
 friends. He also conducted data analysis studies and consultancy for statistical data of various 
 sociology projects.
 
-
-His university life was enjoyable with various difficulties. The most important detail of his university 
-life was the graduation project. He developed a wearable technology and a mobile application for 
-the project. 
-
-
 He wants to improve himself in every field of computer science, including encryption and 
 algorithms, and is ready to do his best for them. 
 He enjoys developing software and solving problems. Apart from these, he likes to deal with
@@ -26,3 +20,5 @@ As in many other subjects, he is ambitious to improve himself. But his enthusias
 
 Above all, he thinks Dennis Ritchie doesn't get the respect he deserves, and he thinks he's one of the 
 most important names in computer science, along with Babbage, Von Neuman, and Turing.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umitkara&hide=jupyter%20notebook,html)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/umitkara))
